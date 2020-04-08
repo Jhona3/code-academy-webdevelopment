@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: floralwhite;
+    color: rgb(78, 71, 71);
+}
+
+table {
+    border:2px solid steelblue;
+    margin: auto;
+    text-align: left;
+}
+
+td{
+    border-top:1px solid steelblue;
+}
+
+thead {
+    background-color: skyblue;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+td.bla {
+    background-color: skyblue;
+}
